@@ -22,12 +22,9 @@ La acción lenta del bordado no es automática, durante la práctica se atravies
 
 Información - Acción 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+<p align="center">
+  <img width="500" height="300" src="./imagenes guia taller/INFORMACION_ACCION.JPG">
+</p>
 
 
 Daniela Whaley en su taller Bitácora Textil - Hilando Datos nos muestra un ejercicio de bordado de datos realizado durante la cuarentena con la intención de registrar, visualizar y compartir las experiencias individuales en torno a categorías colectivas durante el aislamiento social ocasionado por el Covid-19. 
@@ -176,13 +173,9 @@ Revisa con detenimiento la infraestructura del taller, recorre paso a paso los d
 *   Haz un listado del material que se utilizará y, en caso de que no proporciones los materiales, comparte el listado oportunamente.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
+<p align="center">
+  <img width="500"src="./imagenes guia taller/materiales.jpg">
+</p>
 
 
 *   Define el público y objetivos con los que pretendes trabajar.
@@ -193,14 +186,9 @@ Recomendaciones.
 *   Traza tu ruta de trabajo y planeación en un documento editable, esto te ayudará a seguir un camino pero también tener la opción de ajustarlo y modificarlo para atender las necesidades que se manifiesten. 
 *   Para el material del taller puedes elegir entre: Comprar el material para todos (te recomendamos hacerlo por mayoreo) y posteriormente repartir el costo entre los participantes, o dejar que cada quien consiga su material por su cuenta, para esto puedes proporcionarles ayuda con fotografías, tutoriales e  información sobre tiendas en tu región. (TIP: Apoya el comercio local y fomenta el uso de las mercerías de barrio).
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
+<p align="center">
+  <img width="500" src="./imagenes guia taller/tela.jpg">
+</p>
 
 
 *   También puedes apelar a la creatividad de las personas para trabajar con los recursos que tienen en casa. Es un ejercicio interesante: pueden improvisar un bastidor con tuppers desechables, o telas gruesas como el fieltro, utilizar hilos, botones u otros artículos que se encuentran en el costurero y retazos de tela con ropa vieja. 
