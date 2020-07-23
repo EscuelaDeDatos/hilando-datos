@@ -20,8 +20,6 @@ Incluso, es posible que el proceso de transformación de la información en acci
 
 La acción lenta del bordado no es automática, durante la práctica se atraviesa por procesos reflexivos. Este medio resulta una oportunidad para pasar tiempo con la información, para mirarla desde ángulos distintos y explorar las formas que ésta puede tomar. A diferencia del procesamiento de datos con un software, el bordado puede funcionar como un medio para sensibilizar sobre los temas que se estén tratando. 
 
-Información - Acción 
-
 <p align="center">
   <img width="500" height="300" src="./imagenes guia taller/INFORMACION_ACCION.JPG">
 </p>
