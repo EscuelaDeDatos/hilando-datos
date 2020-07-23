@@ -1,10 +1,14 @@
 # Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil
 
+<p align="center">
+  <img width="700" src="./imagenes/portada_documentacion.jpeg">
+</p>
+
 ## INTRODUCCIÓN
 
-## hilandodatos consiste en una serie de exploraciones pedagógicas y artísticas enfocadas en el uso de prácticas textiles para el uso, procesamiento y divulgación de datos como posibles herramientas para el activismo.
+## Hilando datos consiste en una serie de exploraciones pedagógicas y artísticas enfocadas en el uso de prácticas textiles para el uso, procesamiento y divulgación de datos como posibles herramientas para el activismo.
 
-## hilandodatos es parte fundamental del proyecto [Agujas Combativas](https://agujascombativas.hotglue.me/), un proyecto de investigación, pedagogías y divulgación de herramientas para el activismo textil. [Agujas Combativas](https://agujascombativas.hotglue.me/) es una iniciativa que resultó del afortunado encuentro entre SocialTIC y Daniela Whaley.
+## Hilando datos es parte fundamental del proyecto [Agujas Combativas](https://agujascombativas.hotglue.me/), un proyecto de investigación, pedagogías y divulgación de herramientas para el activismo textil. [Agujas Combativas](https://agujascombativas.hotglue.me/) es una iniciativa que resultó del afortunado encuentro entre SocialTIC y Daniela Whaley.
 
 ## ¿QUÉ PASÓ?
 
