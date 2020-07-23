@@ -10,9 +10,7 @@
 
 El taller Bitácora Textil es una propuesta diseñada por Daniela Whaley junto con integrantes del equipo de Social TIC: Diana González, Haydée Quijano y Frida García como continuación del primer taller[ Hilando Datos](https://socialtic.org/blog/hilandodatos-como-bordar-visualizaciones-de-datos/). Surge a partir de la inquietud por registrar el fenómeno de aislamiento social provocado por el Covid-19. Daniela inspirada por el trabajo de la diseñadora Giorgia Lupi y su línea de trabajo de [\#Datahumanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb) nos ha sumergido en este viaje para relacionarnos con los datos desde una mirada más humana.
 
-<p align="center">
-  <img width="500"src="./imagenes/GRAFICA_DATA_HUMANISM.jpeg">
-</p>
+![](.gitbook/assets/GRAFICA_DATA_HUMANISM.jpeg)
 
 El taller Bitácora Textil propone entender y compartir desde la distancia y a través de medios virtuales las nuevas formas que el mundo ha encontrado para habitar la pandemia. En él se observaron, registraron, visualizaron y bordaron los hábitos cotidianos de lxs participantes. El taller transcurrió en los meses de junio y julio de 2020 en el que se trabajaron 7 ejercicios previamente estructurados enfocados en aspectos sociales, culturales y económicos de las personas durante la cuarentena.
 
@@ -24,27 +22,19 @@ Cada ejercicio se componía de temática, preguntas guía, propuesta de visualiz
 
 Los ejercicios realizados se subían a un álbum de fotos destinado a cada uno, fue una manera de compartir y ordenar los avances de lxs participantes. En los álbumes de Facebook cada foto ofrece la posibilidad de escribir un texto en la descripción de la imagen, lo cual dio a lxs participantes un espacio para comunicar sus vivencias particulares, explicar categorías de medición añadidas e incluso las emociones que el ejercicio les provocó.
 
-<p align="center">
-  <img width="500"src="./imagenes/EJERCICIO_TEXTO.jpg">
-</p>
+![](.gitbook/assets/EJERCICIO_TEXTO.jpg)
 
 El taller buscaba la apropiación del uso de datos a través de la experiencia, por ello se mantuvo abierta la posibilidad de cambiar, formular y proponer otras formas de registro. Cada ejercicio tiene el toque único de cada participante.
 
-<p align="center">
-  <img width="500"src="./imagenes/RESULTADOS.png">
-</p>
+![](.gitbook/assets/RESULTADOS%20%281%29.png)
 
 ### Ejercicio 1. Espacio habitado
 
 Este ejercicio buscó plasmar la forma en la que hemos habitado los espacios en los que quedamos encerrados durante la cuarentena.
 
-<p align="center">
-  <img width="500"src="./imagenes/Espacio_habitado1.png">
-</p>
+![](.gitbook/assets/Espacio_habitado1.png)
 
-<p align="center">
-  <img width="500"src="./imagenes/Espacio_habitado3.png">
-</p>
+![](.gitbook/assets/Espacio_habitado3.png)
 
 Preguntas guía:
 
@@ -63,13 +53,9 @@ Códigos y categorías de medición:
 
 Este ejercicio pretendió retratar una de las situaciones más preocupantes de nuestra actualidad: la justicia laboral y el abanico de las realidades económicas. En este ejercicio medimos la situación laboral y económica de cada participante durante la pandemia mediante el bordado de un paisaje inspirado en el trabajo de María José Durán \([@punto.y.linea.sobre.el.plano](https://www.instagram.com/punto.y.linea.sobre.el.plano/)\).
 
-<p align="center">
-  <img width="500"src="./imagenes/TRABAJO1.png">
-</p>
+![](.gitbook/assets/TRABAJO1.png)
 
-<p align="center">
-  <img width="500"src="./imagenes/TRABAJO2.png">
-</p>
+![](.gitbook/assets/TRABAJO2.png)
 
 Preguntas guía:
 
@@ -99,9 +85,7 @@ Ejemplos:
 
 #### Este ejercicio registró la convivencia social, las interacciones físicas o digitales durante el aislamiento.
 
-<p align="center">
-  <img width="500"src="./imagenes/RESULTADOS.png">
-</p>
+![](.gitbook/assets/RESULTADOS.png)
 
 Preguntas guía:
 
@@ -110,27 +94,24 @@ Preguntas guía:
 Códigos y categorías de medición:
 
 1. Cercanía de contacto = círculos concéntricos
-
-* Cohabitantes: 
-* Visitas
-* Contactos fugaces físicos
-* Videollamadas y llamadas
-* Email o chat
-* Tipos de relaciones sociales = color
-* * Animales
-* * Pareja
-* * Familiar \(incluye hijxs\)
-* * Amistad
-* * Colega
-* * Desconocidx o poco conocidx
+2. Cohabitantes:
+3. Visitas
+4. Contactos fugaces físicos
+5. Videollamadas y llamadas
+6. Email o chat
+7. Tipos de relaciones sociales = color
+8. * Animales
+9. * Pareja
+10. * Familiar \(incluye hijxs\)
+11. * Amistad
+12. * Colega
+13. * Desconocidx o poco conocidx
 
 ### Ejercicio 4. Actividades
 
 #### Registrar cómo administramos nuestro tiempo durante la cuarentena.
 
-<p align="center">
-  <img width="500"src="./imagenes/Actividades.png">
-</p>
+![](.gitbook/assets/Actividades.png)
 
 Preguntas guía:
 
@@ -138,29 +119,26 @@ Preguntas guía:
 
 Códigos y categorías de medición:
 
-1. Tipo de actividades =  color o saturación de puntadas 
-
-* Trabajo
-* Comida
-* Labores domésticas
-* Provisiones
-* Cuidado de uno mismo
-* Cuidado de otrxs
-* Traslados
-* Aprendizaje
-* Socializar / Estar con otrxs
-* Recreación
-* Descanso
-* Tiempo = cada línea bordada equivale a 30 min.
-* Presencial o medios digitales = línea bordada atravesada \(en cruz\)
+1. Tipo de actividades = color o saturación de puntadas
+2. Trabajo
+3. Comida
+4. Labores domésticas
+5. Provisiones
+6. Cuidado de uno mismo
+7. Cuidado de otrxs
+8. Traslados
+9. Aprendizaje
+10. Socializar / Estar con otrxs
+11. Recreación
+12. Descanso
+13. Tiempo = cada línea bordada equivale a 30 min.
+14. Presencial o medios digitales = línea bordada atravesada \(en cruz\)
 
 ### Ejercicio 5. Salidas
 
 Registrar el motivo y número de salidas que realizamos durante el aislamiento.
 
-<p align="center">
-  <img width="500"src="./imagenes/Salidas.png">
-</p>
+![](.gitbook/assets/Salidas.png)
 
 Preguntas guía:
 
@@ -169,19 +147,18 @@ Preguntas guía:
 Códigos y categorías de medición:
 
 1. Motivos de salida = símbolo
-
-* Provisiones \(triángulo\)
-* Sociales \(círculo\)
-* Trabajo \(L\)
-* Ejercicio \(gota\)
-* Paseo \(cuadrado\)
-* Traslado \(línea diagonal\)
-* Otros \(x\)
-* Distancia recorrida = tamaño de la figura
-* Cerca \(más pequeño\) de cero a un km
-* Distancia media \(tamaño mediano\) de uno a cinco km
-* Lejos \(más grande\) más de cinco km
-* Cantidad de salidas = yuxtaposición de elementos
+2. Provisiones \(triángulo\)
+3. Sociales \(círculo\)
+4. Trabajo \(L\)
+5. Ejercicio \(gota\)
+6. Paseo \(cuadrado\)
+7. Traslado \(línea diagonal\)
+8. Otros \(x\)
+9. Distancia recorrida = tamaño de la figura
+10. Cerca \(más pequeño\) de cero a un km
+11. Distancia media \(tamaño mediano\) de uno a cinco km
+12. Lejos \(más grande\) más de cinco km
+13. Cantidad de salidas = yuxtaposición de elementos
 
 ### Ejercicio 6. Hábitos del Sueño
 
@@ -205,9 +182,7 @@ Una vez trabajado el procesamiento de datos en categorías preestablecidas, este
 
 ## METODOLOGÍA ¿Cómo procesar datos humanos a través del bordado?
 
-<p align="center">
-  <img width="500"src="./imagenes/PROCESAMIENTO_DATOS1.JPG">
-</p>
+![](.gitbook/assets/PROCESAMIENTO_DATOS1.JPG)
 
 Cuando hablamos del procesamiento de datos pensamos en software o herramientas digitales para analizarlos. Este taller propone utilizar el bordado como un tamiz para procesar información y generar procesos de transformación para la acción social a dos niveles:
 
@@ -223,9 +198,7 @@ Incluso, es posible que el proceso de transformación de la información en acci
 
 La acción lenta del bordado no es automática, durante la práctica se atraviesa por procesos reflexivos. Este medio resulta una oportunidad para pasar tiempo con la información, para mirarla desde ángulos distintos y explorar las formas que ésta puede tomar. A diferencia del procesamiento de datos con un software, el bordado puede funcionar como un medio para sensibilizar sobre los temas que se estén tratando.
 
-<p align="center">
-  <img width="500"src="./imagenes/INFORMACION_ACCION.JPG">
-</p>
+![](.gitbook/assets/INFORMACION_ACCION.JPG)
 
 En este caso, las cinco etapas del procesamiento de datos se realizaron en cada uno de los ejercicios
 
@@ -235,9 +208,7 @@ En este primer paso se observaron, registraron y contabilizaron los datos necesa
 
 Aunque se proporcionaron recursos digitales para el registro de datos \(los datos que recaba Google y hojas de cálculo\) una gran parte de los participantes eligió idear sus propias herramientas para recopilarlos y extraerlos; algunos se apoyaron en aplicaciones, otro en formatos de papel en bitácoras, libretas u hojas, utilizando colores, símbolos u otros elementos para generar sus propios formatos de registro en los que vaciaban la información requerida.
 
-<p align="center">
-  <img width="500"src="./imagenes/registros.jpg">
-</p>
+![](.gitbook/assets/registros.jpg)
 
 Fue interesante ver cómo cada uno de los participantes se las ingenió para integrar el proceso de registro en su cotidianidad. Algunos decidieron llevar un registro estricto en el que anotaban todas las variables a lo largo del día, se acompañaron de una libreta a todos lados en las que anotaban su día de acuerdo al ejercicio instruido. Otros, simplemente tomaban una hora del día para mantener su registro diario con aproximaciones suficientemente cercanas a la realidad.
 
@@ -330,8 +301,7 @@ Los recursos que utilizamos fueron:
 * **Moderar los objetivos de aprendizaje.** El procesamiento de datos personales resultó una tarea difícil para la mayoría de lxs participantes, constantemente se mencionó lo retador que resultaba la rigurosidad del registro y lo confrontativo de la auto-observación. Al parecer registrar estos datos era una tarea difícil no solo por la tarea específica de hacerlo, sino también por el proceso de observación y reflexión personal que implica. 
 * **Involucramiento en el proceso más allá del resultado.** A medida que avanzaron los ejercicios, pudimos observar cómo los participantes cada vez se apropiaron más de los conocimientos y buscaban ir más allá de las indicaciones del ejercicio para idear sus propias formas de expresar el ejercicio. Nos emocionaba ver como la creatividad de los participantes afloraba en sus bordados.  Algunos integraron nuevas categorías de medición y/o elementos y toques únicos y personales. Por ejemplo, utilizar un cubrebocas como retazo de tela para representar el aislamiento. 
 * **En la educación no-formal los procesos son tan importantes como los resultados.** Para talleres de esta naturaleza, creemos importante no centrarse en obtener únicamente un producto final u obtener conocimientos.  Para Daniela el proceso de bordado es importante como práctica colectiva. Durante la cuarentena por el distanciamiento obligatorio el  trabajo colectivo se realizó mediante espacios y herramientas digitales. Incluso al finalizar el taller se organizó un grupo que trabajó en conjunto para recabar la experiencia de todos y diseñar un sitio que pudiera aglomerar el trabajo realizado.  
-* * 
-### Notes
+* * **Notes**
 
 : El **tamizado** o **cribado** es un método mecánico para separar dos sólidos formados por partículas de tamaños diferentes.[1](https://es.wikipedia.org/wiki/Tamizado#cite_note-1)​[2](https://es.wikipedia.org/wiki/Tamizado#cite_note-2)​ Consiste en pasar una mezcla de partículas de diferentes tamaños por un [tamiz](https://es.wikipedia.org/wiki/Tamiz), [criba](https://es.wikipedia.org/wiki/Criba) o herramienta de [colador](https://es.wikipedia.org/wiki/Colador) \(en función del uso podrán ser metálicos, vegetales -tejidos- o de [nailon](https://es.wikipedia.org/wiki/Nailon)\).[3](https://es.wikipedia.org/wiki/Tamizado#cite_note-3)​ Las partículas de menor tamaño atraviesan el filtro por los [poros](https://es.wikipedia.org/wiki/Porosidad), y las de mayor tamaño quedan retenidas.[4](https://es.wikipedia.org/wiki/Tamizado#cite_note-4)​ [\(Wikipedia\)](https://es.wikipedia.org/wiki/Tamizado)
 
