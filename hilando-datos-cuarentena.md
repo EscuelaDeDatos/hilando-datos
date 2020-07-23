@@ -10,6 +10,10 @@
 
 El taller Bitácora Textil es una propuesta diseñada por Daniela Whaley junto con integrantes del equipo de Social TIC: Diana González, Haydée Quijano y Frida García como continuación del primer taller[ Hilando Datos](https://socialtic.org/blog/hilandodatos-como-bordar-visualizaciones-de-datos/). Surge a partir de la inquietud por registrar el fenómeno de aislamiento social provocado por el Covid-19. Daniela inspirada por el trabajo de la diseñadora Giorgia Lupi y su línea de trabajo de [\#Datahumanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb) nos ha sumergido en este viaje para relacionarnos con los datos desde una mirada más humana.
 
+<p align="center">
+  <img width="500"src="./imagenes/GRAFICA_DATA_HUMANISM.jpeg">
+</p>
+
 El taller Bitácora Textil propone entender y compartir desde la distancia y a través de medios virtuales las nuevas formas que el mundo ha encontrado para habitar la pandemia. En él se observaron, registraron, visualizaron y bordaron los hábitos cotidianos de lxs participantes. El taller transcurrió en los meses de junio y julio de 2020 en el que se trabajaron 7 ejercicios previamente estructurados enfocados en aspectos sociales, culturales y económicos de las personas durante la cuarentena.
 
 ## DESCRIPCIÓN DE SESIONES
@@ -20,11 +24,27 @@ Cada ejercicio se componía de temática, preguntas guía, propuesta de visualiz
 
 Los ejercicios realizados se subían a un álbum de fotos destinado a cada uno, fue una manera de compartir y ordenar los avances de lxs participantes. En los álbumes de Facebook cada foto ofrece la posibilidad de escribir un texto en la descripción de la imagen, lo cual dio a lxs participantes un espacio para comunicar sus vivencias particulares, explicar categorías de medición añadidas e incluso las emociones que el ejercicio les provocó.
 
+<p align="center">
+  <img width="500"src="./imagenes/EJERCICIO_TEXTO.jpg">
+</p>
+
 El taller buscaba la apropiación del uso de datos a través de la experiencia, por ello se mantuvo abierta la posibilidad de cambiar, formular y proponer otras formas de registro. Cada ejercicio tiene el toque único de cada participante.
+
+<p align="center">
+  <img width="500"src="./imagenes/RESULTADOS.png">
+</p>
 
 ### Ejercicio 1. Espacio habitado
 
 Este ejercicio buscó plasmar la forma en la que hemos habitado los espacios en los que quedamos encerrados durante la cuarentena.
+
+<p align="center">
+  <img width="500"src="./imagenes/Espacio_habitado1.png">
+</p>
+
+<p align="center">
+  <img width="500"src="./imagenes/Espacio_habitado3.png">
+</p>
 
 Preguntas guía:
 
@@ -42,6 +62,14 @@ Códigos y categorías de medición:
 ### Ejercicio 2. Trabajo
 
 Este ejercicio pretendió retratar una de las situaciones más preocupantes de nuestra actualidad: la justicia laboral y el abanico de las realidades económicas. En este ejercicio medimos la situación laboral y económica de cada participante durante la pandemia mediante el bordado de un paisaje inspirado en el trabajo de María José Durán \([@punto.y.linea.sobre.el.plano](https://www.instagram.com/punto.y.linea.sobre.el.plano/)\).
+
+<p align="center">
+  <img width="500"src="./imagenes/TRABAJO1.png">
+</p>
+
+<p align="center">
+  <img width="500"src="./imagenes/TRABAJO2.png">
+</p>
 
 Preguntas guía:
 
@@ -71,6 +99,10 @@ Ejemplos:
 
 #### Este ejercicio registró la convivencia social, las interacciones físicas o digitales durante el aislamiento.
 
+<p align="center">
+  <img width="500"src="./imagenes/RESULTADOS.png">
+</p>
+
 Preguntas guía:
 
 ¿Cómo te mantienes en contacto con tus seres queridos? ¿Cómo se juegan los afectos y cercanías sin el contacto físico? ¿Es verdaderamente posible aislarnos?
@@ -95,6 +127,10 @@ Códigos y categorías de medición:
 ### Ejercicio 4. Actividades
 
 #### Registrar cómo administramos nuestro tiempo durante la cuarentena.
+
+<p align="center">
+  <img width="500"src="./imagenes/Actividades.png">
+</p>
 
 Preguntas guía:
 
@@ -121,6 +157,10 @@ Códigos y categorías de medición:
 ### Ejercicio 5. Salidas
 
 Registrar el motivo y número de salidas que realizamos durante el aislamiento.
+
+<p align="center">
+  <img width="500"src="./imagenes/Salidas.png">
+</p>
 
 Preguntas guía:
 
@@ -165,6 +205,10 @@ Una vez trabajado el procesamiento de datos en categorías preestablecidas, este
 
 ## METODOLOGÍA ¿Cómo procesar datos humanos a través del bordado?
 
+<p align="center">
+  <img width="500"src="./imagenes/PROCESAMIENTO_DATOS1.JPG">
+</p>
+
 Cuando hablamos del procesamiento de datos pensamos en software o herramientas digitales para analizarlos. Este taller propone utilizar el bordado como un tamiz para procesar información y generar procesos de transformación para la acción social a dos niveles:
 
 **Nivel individual:**
@@ -179,6 +223,10 @@ Incluso, es posible que el proceso de transformación de la información en acci
 
 La acción lenta del bordado no es automática, durante la práctica se atraviesa por procesos reflexivos. Este medio resulta una oportunidad para pasar tiempo con la información, para mirarla desde ángulos distintos y explorar las formas que ésta puede tomar. A diferencia del procesamiento de datos con un software, el bordado puede funcionar como un medio para sensibilizar sobre los temas que se estén tratando.
 
+<p align="center">
+  <img width="500"src="./imagenes/INFORMACION_ACCION.JPG">
+</p>
+
 En este caso, las cinco etapas del procesamiento de datos se realizaron en cada uno de los ejercicios
 
 1. Recopilación y extracción de datos. 
@@ -186,6 +234,10 @@ En este caso, las cinco etapas del procesamiento de datos se realizaron en cada 
 En este primer paso se observaron, registraron y contabilizaron los datos necesarios para cada categoría.
 
 Aunque se proporcionaron recursos digitales para el registro de datos \(los datos que recaba Google y hojas de cálculo\) una gran parte de los participantes eligió idear sus propias herramientas para recopilarlos y extraerlos; algunos se apoyaron en aplicaciones, otro en formatos de papel en bitácoras, libretas u hojas, utilizando colores, símbolos u otros elementos para generar sus propios formatos de registro en los que vaciaban la información requerida.
+
+<p align="center">
+  <img width="500"src="./imagenes/registros.jpg">
+</p>
 
 Fue interesante ver cómo cada uno de los participantes se las ingenió para integrar el proceso de registro en su cotidianidad. Algunos decidieron llevar un registro estricto en el que anotaban todas las variables a lo largo del día, se acompañaron de una libreta a todos lados en las que anotaban su día de acuerdo al ejercicio instruido. Otros, simplemente tomaban una hora del día para mantener su registro diario con aproximaciones suficientemente cercanas a la realidad.
 
