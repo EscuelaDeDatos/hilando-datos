@@ -1,6 +1,6 @@
-# Table of contents
+# Contenido
 
 * [Hilando datos](README.md)
 * [Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil](hilando-datos-cuarentena.md)
-* [Untitled](untitled.md)
+* [Cómo hacer un taller #HilandoDatos para el activismo](guia_taller.md)
 
