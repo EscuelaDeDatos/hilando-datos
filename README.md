@@ -1,25 +1,15 @@
 # Hilando datos
 
-## Getting Super Powers
+## Humanizar los datos a través del arte textil
 
-Becoming a super hero is a fairly straight forward process:
+Hilando datos busca promover el cruce entre la visualización de datos y el bordado, explorando nuevas formas de visualizar y contar historias basadas en datos.
 
-```
-$ give me super-powers
-```
+Encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el bordado para exploraras nuevas posibilidades en la visualización de datos.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
+<p align="center">
+  <img width="700" src="./imagenes/manta_bordada.jpg">
+</p>
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
-Documentación y recursos del taller Hilando datos en cuarentena: bordando visualizaciones de datos
-
+Una colaboración de Escuela de datos, SocialTIC y Agujas Combativas.
