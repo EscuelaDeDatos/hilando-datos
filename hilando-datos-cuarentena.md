@@ -1,8 +1,6 @@
 # Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil
 
-<p align="center">
-  <img width="700" src="./imagenes/portada_documentacion.jpeg">
-</p>
+![](.gitbook/assets/portada_documentacion.jpeg)
 
 ## INTRODUCCIÓN
 
