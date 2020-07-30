@@ -1,5 +1,14 @@
 # Hilando datos
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 ## Humanizar los datos a través del arte textil
 
 Hilando datos busca promover el cruce entre la visualización de datos y el bordado, explorando nuevas formas de visualizar y contar historias basadas en datos.
