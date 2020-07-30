@@ -14,7 +14,7 @@ Encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el b
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/hilando-datos/{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
