@@ -5,17 +5,15 @@
 layout: home
 ---
 
-# Hilando datos
+**Humanizar los datos a través del arte textil**
 
-## Humanizar los datos a través del arte textil
+Hilando datos busca promover el cruce entre la visualización de datos y el
+bordado, explorando nuevas formas de visualizar y contar historias basadas en
+datos.
 
-Hilando datos busca promover el cruce entre la visualización de datos y el bordado, explorando nuevas formas de visualizar y contar historias basadas en datos.
+Aquí encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el
+bordado para exploraras nuevas posibilidades en la visualización de datos.
 
-Encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el bordado para exploraras nuevas posibilidades en la visualización de datos.
-
-
-<p align="center">
-  <img width="700" src="./imagenes/manta_bordada.jpg">
-</p>
+![](./assets/manta_bordada.jpg)
 
 Una colaboración de Escuela de datos, SocialTIC y Agujas Combativas.
