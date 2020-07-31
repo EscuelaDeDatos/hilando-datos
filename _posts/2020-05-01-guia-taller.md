@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "#HilandoDatos para el activismo: cómo armar un taller"
+date: 2020-05-01
 ---
 
 # ¿Cómo hacer un taller #HilandoDatos para el activismo?

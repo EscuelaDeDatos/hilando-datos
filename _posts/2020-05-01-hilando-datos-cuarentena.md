@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil]"
+title:  "Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil"
+date: 2020-05-01
 ---
 
 # Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil

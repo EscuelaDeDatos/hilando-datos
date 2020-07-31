@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Hilando datos
 
 ## Humanizar los datos a través del arte textil
@@ -10,13 +17,5 @@ Encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el b
 <p align="center">
   <img width="700" src="./imagenes/manta_bordada.jpg">
 </p>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="/hilando-datos/{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 Una colaboración de Escuela de datos, SocialTIC y Agujas Combativas.
