@@ -54,6 +54,10 @@ Recursos que también puedes consultar:
 
 - [Collage digital bordado: bitácora cuarentena](https://agujascombativas.hotglue.me/?bitacora-cuarentena/)
 - Casos de activismo textil
+  - [Escuela Libre Textil - Comunidad](https://infoactivismo.org/escuela-libre-textil-mujeres-que-bordan-y-cosen-juntas/)
+  - [Fuentes Rojas  - Memoria](https://infoactivismo.org/fuentes-rojas-bordando-por-la-paz/)
+  - [Voz Pública - Denuncia](https://infoactivismo.org/voz-publica-textiles-electronicos-y-activismo-feminista/)
+  - [Qué Rico Menstruo - Protesta pública](https://infoactivismo.org/que-rico-menstruo-activismo-menstrual-textil/)
 
 ## Paso a paso ¿Cómo hacer un taller de datos bordados?
 
@@ -493,7 +497,17 @@ Si realizaste una evaluación de los participantes te aconsejamos leerlas con
 detenimiento y recabar la retroalimentación de la experiencia vivida por parte de
 los participantes.
 
-**¡Feliz #HilandoDatos!**
+<p align="center">
+
+<b>¡Feliz #HilandoDatos!</b>
+
+</p>
+
+Te recomendamos leer
+[Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil](https://escueladedatos.github.io/hilando-datos/2020/05/01/hilando-datos-cuarentena.html),
+texto que forma parte de esta experiencia.
+
+![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/bitacora_hilando_datos.jpeg)
 
 <!-- Footnotes themselves at the bottom. -->
 ### Notas

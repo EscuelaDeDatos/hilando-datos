@@ -4,8 +4,6 @@ title: "Hilando datos en cuarentena: metodología y ejercicios para elaborar una
 date: 2020-05-01
 ---
 
-## Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil
-
 ![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/bitacora_hilando_datos.jpeg)
 
 ### INTRODUCCIÓN
@@ -569,3 +567,9 @@ cuarentena por el distanciamiento obligatorio el  trabajo colectivo se realizó
 mediante espacios y herramientas digitales. Incluso al finalizar el taller se
 organizó un grupo que trabajó en conjunto para recabar la experiencia de todos y
 diseñar un sitio que pudiera aglomerar el trabajo realizado.
+
+Te recomendamos leer
+[#HilandoDatos para el activismo: cómo armar un taller](https://escueladedatos.github.io/hilando-datos/2020/05/01/guia-taller.html),
+texto que forma parte de esta experiencia.
+
+![image]({{site.baseurl}}/assets/2020-05-01-taller/flyer_hilandodatos_taller.jpeg)
