@@ -6,7 +6,7 @@ date: 2020-05-01
 
 # Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil
 
-![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/portada_documentacion.jpeg)
+![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/bitacora_hilando_datos.jpeg)
 
 ## INTRODUCCIÓN
 

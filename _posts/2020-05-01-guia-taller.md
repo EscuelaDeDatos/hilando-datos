@@ -6,6 +6,8 @@ date: 2020-05-01
 
 # ¿Cómo hacer un taller #HilandoDatos para el activismo?
 
+![image]({{site.baseurl}}/assets/2020-05-01-taller/flyer_hilandodatos_taller.jpeg)
+
 Hilando Datos en una serie de estrategias pedagógicas para explorar el uso del arte textil, en específico el bordado, para procesar y visualizar información. Propone que la naturaleza lenta pero no mecánica del bordado funciona puede funcionar como un tamiz[^1] para procesar información y generar procesos de transformación para la acción social en dos niveles:
 
 
