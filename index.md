@@ -16,12 +16,14 @@ bordado para exploraras nuevas posibilidades en la visualización de datos.
 
 <!--![](./assets/manta_bordada.jpg)-->
 
-<iframe
-  width="100%" height="420"
-  src="https://www.youtube.com/embed/V9AbeALNVkk"
-  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<p align="center">
+  <iframe
+    width="560" height="560"
+    src="https://www.youtube.com/embed/MyVaRxh7rfc"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</p>
 
 Una colaboración de
 [Escuela de Datos](https://escueladedatos.online/),
