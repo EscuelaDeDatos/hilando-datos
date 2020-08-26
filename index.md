@@ -14,7 +14,14 @@ datos.
 Aquí encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el
 bordado para exploraras nuevas posibilidades en la visualización de datos.
 
-![](./assets/manta_bordada.jpg)
+<!--![](./assets/manta_bordada.jpg)-->
+
+<iframe
+  width="100%" height="420"
+  src="https://www.youtube.com/embed/V9AbeALNVkk"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Una colaboración de
 [Escuela de Datos](https://escueladedatos.online/),
