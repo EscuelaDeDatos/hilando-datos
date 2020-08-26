@@ -16,4 +16,13 @@ bordado para exploraras nuevas posibilidades en la visualización de datos.
 
 ![](./assets/manta_bordada.jpg)
 
-Una colaboración de Escuela de datos, SocialTIC y Agujas Combativas.
+Una colaboración de
+[Escuela de Datos](https://escueladedatos.online/),
+[SocialTIC](https://socialtic.org/) y
+[Agujas Combativas](https://agujascombativas.hotglue.me/).
+
+Para conocer mejor el trabajo de Agujas Combativas puedes seguirles en sus
+redes sociales:
+- [Facebook](https://www.facebook.com/agujascombativas)
+- [Instragam](https://www.instagram.com/agujascombativas/)
+- [Sitio Web](https://agujascombativas.hotglue.me/)
