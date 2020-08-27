@@ -6,7 +6,29 @@ date: 2020-05-01
 
 ![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/bitacora_hilando_datos.jpeg)
 
-### INTRODUCCIÓN
+##  Tabla de contenidos
+
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Introducción](#introducción)
+- [¿Qué pasó?](#qué-pasó)
+- [Descripción de sesiones](#descripción-de-sesiones)
+  - [Ejercicio 1. Espacio habitado](#ejercicio-1-espacio-habitado)
+  - [Ejercicio 2. Trabajo](#ejercicio-2-trabajo)
+  - [Ejercicio 3. Contacto Social](#ejercicio-3-contacto-social)
+  - [Ejercicio 4. Actividades](#ejercicio-4-actividades)
+  - [Ejercicio 5. Salidas](#ejercicio-5-salidas)
+  - [Ejercicio 6. Hábitos del Sueño](#ejercicio-6-hábitos-del-sueño)
+  - [Ejercicio 7. Categoría Libre](#ejercicio-7-categoría-libre)
+- [Metodología ¿Cómo procesar datos humanos a través del bordado?](#metodología-cómo-procesar-datos-humanos-a-través-del-bordado)
+  - [1. Recopilación y extracción de datos.](#1-recopilación-y-extracción-de-datos)
+  - [2. Limpieza y verificación de datos.](#2-limpieza-y-verificación-de-datos)
+  - [3. Análisis de Datos](#3-análisis-de-datos)
+  - [4. Interpretación y visualización de datos](#4-interpretación-y-visualización-de-datos)
+  - [5. Almacenamiento de datos](#5-almacenamiento-de-datos)
+- [Consideraciones para un taller en línea](#consideraciones-para-un-taller-en-línea)
+- [Lecciones y aprendizajes](#lecciones-y-aprendizajes)
+
+## Introducción
 
 Hilando datos consiste en una serie de exploraciones pedagógicas y artísticas
 enfocadas en el uso de prácticas textiles para el uso, procesamiento y
@@ -19,7 +41,7 @@ textil.
 [Agujas Combativas](https://agujascombativas.hotglue.me/) es una iniciativa que
 resultó del afortunado encuentro entre SocialTIC y Daniela Whaley.
 
-### ¿QUÉ PASÓ?
+## ¿Qué pasó?
 
 El taller Bitácora Textil es una propuesta diseñada por Daniela Whaley junto con
 integrantes del equipo de Social TIC: Diana González, Haydée Quijano y Frida
@@ -44,7 +66,7 @@ de junio y julio de 2020 en el que se trabajaron 7 ejercicios previamente
 estructurados enfocados en aspectos sociales, culturales y económicos de las
 personas durante la cuarentena.
 
-### DESCRIPCIÓN DE SESIONES
+## Descripción de sesiones
 
 El taller utilizó como recurso de comunicación y trabajo un grupo privado de
 Facebook \(grupo de aprendizaje\) y las 3 sesiones en línea se hicieron mediante
@@ -79,7 +101,7 @@ formas de registro. Cada ejercicio tiene el toque único de cada participante.
   <img src="{{site.baseurl}}/assets/2020-05-01-cuarentena/RESULTADOS%20%281%29.png">
 </p>
 
-#### Ejercicio 1. Espacio habitado
+### Ejercicio 1. Espacio habitado
 
 Este ejercicio buscó plasmar la forma en la que hemos habitado los espacios en los que quedamos encerrados durante la cuarentena.
 
@@ -108,7 +130,7 @@ Códigos y categorías de medición:
 5. Mucho \(más de 6 horas\) / Color más oscuro
 6. Traslado o mudanza = Flecha / Recorrido
 
-#### Ejercicio 2. Trabajo
+### Ejercicio 2. Trabajo
 
 Este ejercicio pretendió retratar una de las situaciones más preocupantes de
 nuestra actualidad: la justicia laboral y el abanico de las realidades
@@ -153,7 +175,7 @@ Ejemplos:
 - Perdí mi trabajo \( paisaje montañoso, con varios triángulos\)
 - Sin empleo desde antes del Covid \(paisaje plano\)
 
-#### Ejercicio 3. Contacto Social
+### Ejercicio 3. Contacto Social
 
 **Este ejercicio registró la convivencia social, las interacciones físicas o digitales durante el aislamiento.**
 
@@ -183,7 +205,7 @@ Códigos y categorías de medición:
   - Colega
   - Desconocidx o poco conocidx
 
-#### Ejercicio 4. Actividades
+### Ejercicio 4. Actividades
 
 **Registrar cómo administramos nuestro tiempo durante la cuarentena.**
 
@@ -213,7 +235,7 @@ Códigos y categorías de medición:
 13. Tiempo = cada línea bordada equivale a 30 min.
 14. Presencial o medios digitales = línea bordada atravesada \(en cruz\)
 
-#### Ejercicio 5. Salidas
+### Ejercicio 5. Salidas
 
 Registrar el motivo y número de salidas que realizamos durante el aislamiento.
 
@@ -242,7 +264,7 @@ Códigos y categorías de medición:
 12. Lejos \(más grande\) más de cinco km
 13. Cantidad de salidas = yuxtaposición de elementos
 
-#### Ejercicio 6. Hábitos del Sueño
+### Ejercicio 6. Hábitos del Sueño
 
 Plasmar las horas que pasas durmiendo y la distribución de los horarios de sueño
 en cuarentena.
@@ -260,13 +282,13 @@ Códigos y categorías de medición:
   2. Horario en el que se durmió = posición del bordado.
   3. Calidad del sueño = Grosor de la puntada
 
-#### Ejercicio 7. Categoría Libre
+### Ejercicio 7. Categoría Libre
 
 Una vez trabajado el procesamiento de datos en categorías preestablecidas, este
 último ejercicio consistió en proponer libremente categorías de observación y
 medición desde el entorno propio y explorar las maneras de representarse.
 
-### METODOLOGÍA ¿Cómo procesar datos humanos a través del bordado?
+## Metodología ¿Cómo procesar datos humanos a través del bordado?
 
 <p align="center">
   <img src="{{site.baseurl}}/assets/2020-05-01-cuarentena/PROCESAMIENTO_DATOS1.JPG">
@@ -310,7 +332,7 @@ se estén tratando.
 En este caso, las cinco etapas del procesamiento de datos se realizaron en cada
 uno de los ejercicios
 
-####  1. Recopilación y extracción de datos.
+###  1. Recopilación y extracción de datos.
 
 En este primer paso se observaron, registraron y contabilizaron los datos
 necesarios para cada categoría.
@@ -341,7 +363,7 @@ recabar. La flexibilidad y ritmo del taller permitieron que algunos registraran
 hasta 5 o 7 días un mismo ejercicio y se tomaran el tiempo que requerían para
 registrar y bordar cuanto ellos quisieran.
 
-####  2. Limpieza y verificación de datos.
+###  2. Limpieza y verificación de datos.
 
 Durante el proceso de recopilación de datos, la limpieza y verificación invitaba
 a realizar constantes procesos de reestructuración para verificar o replantear
@@ -388,7 +410,7 @@ más inmersos estaban en la experiencia ideando las formas de expresar su propia
 vivencia. Para otrxs, el proceso resultó frustrante y decidieron abandonar las
 actividades del taller por la disciplina de observación que requería el proceso.
 
-####  3. Análisis de Datos
+###  3. Análisis de Datos
 
 Desde la experiencia del bordado, el análisis de datos se realiza durante el
 proceso de registro y visualización. Contrario a las técnicas convencionales más
@@ -407,7 +429,7 @@ videollamadas, fotografías, comentarios, e incluso reacciones \(likes\), las
 narración de las vivencias individuales se convertían en compañía para otros y
 sirvieron para entender o identificarse como grupo.
 
-####  4. Interpretación y visualización de datos
+###  4. Interpretación y visualización de datos
 
 La interpretación y visualización de los datos se realizó al finalizar cada uno
 de los ejercicios a través de las piezas bordadas. Cada participante, al
@@ -426,7 +448,7 @@ los elementos que las personas consideraron importantes. La perfección o la
 belleza de los bordados se manifestó desde un segundo plano, abriendo más
 posibilidades para esta práctica, como una vía para comunicar información.
 
-####  5. Almacenamiento de datos
+###  5. Almacenamiento de datos
 
 Para el almacenamiento de datos se eligieron diferentes espacios y formatos en
 los que la información que se produjo durante el taller quedará almacenada:
@@ -455,7 +477,7 @@ el proceso de acompañamiento que hicieron lxs participantes entre ellxs.
 4. También se elaboró este documento abierto al público para explicar el
 ejercicio y  exponer algunos de los resultados obtenidos.
 
-### CONSIDERACIONES PARA UN TALLER EN LÍNEA
+## Consideraciones para un taller en línea
 
 La planeación del taller fue realizada bajo el contexto de aislamiento provocado
 por el COVID-19 por lo que su naturaleza análoga fue adaptada a recursos
@@ -507,7 +529,7 @@ videollamadas, pero a causa de los problemas técnicos por la cantidad de
 participantes decidimos mudar las sesiones a Zoom. En Jitsi quedó abierta una
 sala de bordado como espacio de encuentro libre para lxs participantes.
 
-### LECCIONES Y APRENDIZAJES
+## Lecciones y aprendizajes
 
 * **Apertura a los cambios y dinámicas de escucha.** Al inicio del taller se  
 realizó una duración del taller de poco menos de un mes para realizar los
