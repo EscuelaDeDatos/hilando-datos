@@ -4,9 +4,37 @@ title:  "#HilandoDatos para el activismo: cómo armar un taller"
 date: 2020-03-07
 ---
 
-## ¿Cómo hacer un taller #HilandoDatos para el activismo?
-
 ![image]({{site.baseurl}}/assets/2020-05-01-taller/flyer_hilandodatos_taller.jpeg)
+
+##  Tabla de contenidos
+
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [¿Cómo hacer un taller #HilandoDatos para el activismo?](#cómo-hacer-un-taller-hilandodatos-para-el-activismo)
+  1. [Nivel individual](#1-nivel-individual)
+  2. [Nivel colectivo](#2-nivel-colectivo)
+- [Paso a paso ¿Cómo hacer un taller de datos bordados?](#paso-a-paso-cómo-hacer-un-taller-de-datos-bordados)
+  1. [Planeación](#1-planeación)
+    - [Buscar inspiración](#buscar-inspiración)
+    - [Definición del objetivo](#definición-del-objetivo)
+    - [Planeación de actividades](#planeación-de-actividades)
+    - [Diseño de Formato](#diseño-de-formato)
+    - [Planeación de logística](#planeación-de-logística)
+  2. [Recursos](#2-recursos)
+  3. [Invitación](#3-invitación)
+    - [Planeación estratégica de comunicación](#planeación-estratégica-de-comunicación)
+    - [Registro](#registro)
+    - [Bienvenida](#bienvenida)
+  4. [Desarrollo del taller](#4-desarrollo-del-taller)
+    - [Presentación](#presentación)
+    - [Introducción](#introducción)
+    - [Explicación de logística](#explicación-de-logística)
+  5. [Documentación del taller](#5-documentación-del-taller)
+  6. [Evaluación](#6-evaluación)
+    - [Análisis del proceso](#análisis-del-proceso)
+    - [Lecciones y Aprendizajes](#lecciones-y-aprendizajes)
+- [Notas](#notas)
+
+## ¿Cómo hacer un taller #HilandoDatos para el activismo?
 
 Hilando Datos en una serie de estrategias pedagógicas para explorar el uso del
 arte textil, en específico el bordado, para procesar y visualizar información.
