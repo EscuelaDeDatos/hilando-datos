@@ -87,6 +87,8 @@ Recursos que también puedes consultar:
   - [Voz Pública - Denuncia](https://infoactivismo.org/voz-publica-textiles-electronicos-y-activismo-feminista/)
   - [Qué Rico Menstruo - Protesta pública](https://infoactivismo.org/que-rico-menstruo-activismo-menstrual-textil/)
 
+![image]({{site.baseurl}}/assets/2020-05-01-taller/activismo-textil.gif)
+
 ## Paso a paso ¿Cómo hacer un taller de datos bordados?
 
 ### 1. Planeación
