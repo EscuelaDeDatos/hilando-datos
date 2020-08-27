@@ -4,9 +4,6 @@
 
 layout: home
 ---
-<p align="center">
-  <img height="480" src="./assets/manta_bordada.jpg"/>
-</p>
 
 **Humanizar los datos a través del arte textil**
 
@@ -14,9 +11,7 @@ Hilando datos busca promover el cruce entre la visualización de datos y el
 bordado, explorando nuevas formas de visualizar y contar historias basadas en
 datos.
 
-<p align="center">
-  <img height="560" src="./assets/activismo_textil.gif"/>
-</p>
+![](./assets/HilandoDatos.gif)
 
 Aquí encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el
 bordado para exploraras nuevas posibilidades en la visualización de datos.
@@ -29,7 +24,7 @@ bordado para exploraras nuevas posibilidades en la visualización de datos.
 
 <p align="center">
   <iframe
-    width="560" height="560"
+    width="100%" height="500"
     src="https://www.youtube.com/embed/MyVaRxh7rfc"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
@@ -49,9 +44,7 @@ redes sociales:
 - [Instragam](https://www.instagram.com/agujascombativas/)
 - [Sitio Web](https://agujascombativas.hotglue.me/)
 
-<p align="center">
-  <img height="560" src="./assets/agujas_combativas.png"/>
-</p>
+![](./assets/agujas-combativas.png)
 
 ---
 <br />
