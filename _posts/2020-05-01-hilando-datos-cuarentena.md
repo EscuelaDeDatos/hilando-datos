@@ -568,8 +568,29 @@ mediante espacios y herramientas digitales. Incluso al finalizar el taller se
 organizó un grupo que trabajó en conjunto para recabar la experiencia de todos y
 diseñar un sitio que pudiera aglomerar el trabajo realizado.
 
+---
+<br />
+
 Te recomendamos leer
-[#HilandoDatos para el activismo: cómo armar un taller](https://escueladedatos.github.io/hilando-datos/2020/05/01/guia-taller.html),
+[#HilandoDatos para el activismo: cómo armar un taller](https://escueladedatos.github.io/hilando-datos/2020/03/07/guia-taller.html),
 texto que forma parte de esta experiencia.
 
 ![image]({{site.baseurl}}/assets/2020-05-01-taller/flyer_hilandodatos_taller.jpeg)
+
+---
+<br />
+
+<p align="center">
+  <a rel="license"
+    href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img
+        alt="Licencia Creative Commons" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
+      />
+  </a>
+  <br />
+  Esta obra está bajo una
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+  </a>.
+</p>

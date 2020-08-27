@@ -4,6 +4,9 @@
 
 layout: home
 ---
+<p align="center">
+  <img height="480" src="./assets/manta_bordada.jpg"/>
+</p>
 
 **Humanizar los datos a través del arte textil**
 
@@ -11,10 +14,18 @@ Hilando datos busca promover el cruce entre la visualización de datos y el
 bordado, explorando nuevas formas de visualizar y contar historias basadas en
 datos.
 
+<p align="center">
+  <img height="560" src="./assets/activismo_textil.gif"/>
+</p>
+
 Aquí encontrarás ejercicios, metodologías y técnicas artísticas del dibujo y el
 bordado para exploraras nuevas posibilidades en la visualización de datos.
 
-<!--![](./assets/manta_bordada.jpg)-->
+<!--
+<p align="center">
+  <img height="360" src="./assets/manos.png"/>
+</p>
+-->
 
 <p align="center">
   <iframe
@@ -30,8 +41,35 @@ Una colaboración de
 [SocialTIC](https://socialtic.org/) y
 [Agujas Combativas](https://agujascombativas.hotglue.me/).
 
+![](./assets/logos.png)
+
 Para conocer mejor el trabajo de Agujas Combativas puedes seguirles en sus
 redes sociales:
 - [Facebook](https://www.facebook.com/agujascombativas)
 - [Instragam](https://www.instagram.com/agujascombativas/)
 - [Sitio Web](https://agujascombativas.hotglue.me/)
+
+<p align="center">
+  <img height="560" src="./assets/agujas_combativas.png"/>
+</p>
+
+---
+<br />
+
+<p align="center">
+  <a rel="license"
+    href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img
+        alt="Licencia Creative Commons" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
+      />
+  </a>
+  <br />
+  Esta obra está bajo una
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+  </a>.
+</p>
+
+---
+<br />

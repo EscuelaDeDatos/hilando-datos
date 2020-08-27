@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#HilandoDatos para el activismo: cómo armar un taller"
-date: 2020-05-01
+date: 2020-03-07
 ---
 
 ## ¿Cómo hacer un taller #HilandoDatos para el activismo?
@@ -503,12 +503,34 @@ los participantes.
 
 </p>
 
+---
+<br />
 Te recomendamos leer
 [Hilando datos en cuarentena: metodología y ejercicios para elaborar una bitácora textil](https://escueladedatos.github.io/hilando-datos/2020/05/01/hilando-datos-cuarentena.html),
 texto que forma parte de esta experiencia.
 
 ![image]({{site.baseurl}}/assets/2020-05-01-cuarentena/bitacora_hilando_datos.jpeg)
 
+---
+<br />
+
+<p align="center">
+  <a rel="license"
+    href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img
+        alt="Licencia Creative Commons" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
+      />
+  </a>
+  <br />
+  Esta obra está bajo una
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+  </a>.
+</p>
+
+---
+<br />
 <!-- Footnotes themselves at the bottom. -->
 ### Notas
 
